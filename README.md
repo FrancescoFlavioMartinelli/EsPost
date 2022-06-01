@@ -4,15 +4,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Importazione progetto Angular da Github
 
-- Eseguire clonazione in locale della repository
+- Eseguire clonazione in locale della repository 
   (Posizionati in una cartella vuota)
-    git clone https://github.com/FrancescoFlavioMartinelli/EsPost.git
+    <br> -> git clone https://github.com/FrancescoFlavioMartinelli/EsPost.git
     
 - Entrare nella cartella
-    cd EsPost
+    <br> -> cd EsPost
     
 - Impostare node
-    npm install
+    <br> -> npm install
     (Non avendo compreso i node_modules in questa repository, se doveste trovare una repo con i node_module (o in generale avete un progetto fatto su un altro computer da testare) dovrebbe bastare il comando npm init)
     
 - ng serve -open
